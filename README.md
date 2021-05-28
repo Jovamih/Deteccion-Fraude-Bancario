@@ -2,6 +2,9 @@
 
 * [**Paper completo del proyecto. Aquí 👀📚**](https://drive.google.com/file/d/1rQomklCfWuBcIzAFqs3Pj-GC2qMfhevv/view?usp=sharing)
 
+
+![alt creditcard_img](https://bit.ly/3wEHelv)
+
 Repositorio con la deteccion de fraude con un **99% de precision y 99% de Recall**
 
 * Se usó la metodologia de ciencia de datos
